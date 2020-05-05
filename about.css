@@ -1,0 +1,96 @@
+.container-fluid{
+    background-image: url(https://cdn.inspirationhut.net/wp-content/uploads/2013/05/61.png);
+    background-repeat: no-repeat;
+    background-size: cover; 
+    text-align: center;
+}   header{
+    font:  60px 'Satisfy';
+    color: rgb(3, 16, 53);
+    text-align: center; 
+}
+#mainNavBar a{
+    text-align: center;
+    font-size: 17px;
+    font: 18px 'Hind';
+}
+
+h1{
+    text-align: center;
+    font: bold 50px 'Akronim';
+}
+.p1{
+    text-align: center;
+    font: 19px 'Hind';
+}
+.p2{
+    text-align: center;
+    font: 19px 'Hind';
+}
+h2{
+    text-align: center;
+    font: bold 40px 'Hind';
+    color: rgb(146, 145, 145);
+}
+.p3{
+    text-align: center;
+    font: 19px 'Hind';
+}
+img{
+    display: block;
+    margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+.p4{
+    text-align: center;
+    font: 19px 'Hind';
+}
+.p5{
+    text-align: center;
+    font: 19px 'Hind';
+}
+@media only screen and (max-width:812px){
+    header{
+        font:  30px 'Satisfy';
+        color: rgb(3, 16, 53);
+        text-align: center; 
+    }
+    #mainNavBar a{
+        text-align: center;
+        font-size: 10px;
+        font: 10px 'Hind';
+    }
+    h1{
+        text-align: center;
+        font: bold 30px 'Akronim';
+    }.p1{
+        text-align: center;
+        font: 15px 'Hind';
+        color: rgb(177, 153, 122);
+    }
+    .p2{
+        text-align: center;
+        font: 15px 'Hind';
+        color: rgb(177, 153, 122);
+    }
+    h2{
+        text-align: center;
+        font: bold 20px 'Hind';
+        color: rgb(146, 145, 145);
+    }
+    .p3{
+        text-align: center;
+        font: 15px 'Hind';
+        color: rgb(177, 153, 122);
+    }
+    .p4{
+        text-align: center;
+        font: 15px 'Hind';
+        color: rgb(177, 153, 122);
+    }
+    .p5{
+        text-align: center;
+        font: 15px 'Hind';
+        color: rgb(177, 153, 122);
+    }
+}
